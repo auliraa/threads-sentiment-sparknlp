@@ -20,3 +20,6 @@ Model berhasil mengklasifikasikan sentimen dengan distribusi sebagai berikut:
 - **Neutral:** ~2,000 ulasan
 
 *Insight:* Model mampu mendeteksi kalimat sarkasme sederhana dan slang internet (contoh: "Osm" terdeteksi positif).
+
+<img width="1145" height="391" alt="image" src="https://github.com/user-attachments/assets/0ff663aa-419a-41ab-8cfb-5f89e93a3a06" />
+
